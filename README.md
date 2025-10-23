@@ -1,6 +1,6 @@
-Il s'agit d'une application e-commerce conçu avec Angular, NodeJS et MySQL.
+This is an e-commerce application built with Angular, NodeJS, and MySQL.
 
-- Inspection de nouveautés d'Angular : Standalone, Signal, Defer, Flux de contrôle, etc.
-- Stratégie sélective basée sur les données de route (préchargement des catégories populaires).
-- Utilisation de la librarie de state management NgRx.
-- Implémentation de tests Front avec Jasmine.
+- Inspection of new Angular features: Standalone, Signal, Defer, Control Flow, etc.
+- Selective strategy based on route data (preloading popular categories).
+- Use of the NgRx state management library.
+- Implementation of front-end tests with Jasmine.
